@@ -1,6 +1,6 @@
 %define name		dclib
 %define	version		0.3.23
-%define	release		2
+%define release		3
 %define	major		5
 %define	libname		%mklibname dc %{major}
 %define	develname	%mklibname -d dc

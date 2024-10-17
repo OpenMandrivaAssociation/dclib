@@ -13,7 +13,7 @@ Release:		%{release}
 Summary:		Direct Connect file sharing library
 Group:		System/Libraries
 License:		GPLv2+
-URL:		http://sourceforge.net/projects/wxdcgui/
+URL:		https://sourceforge.net/projects/wxdcgui/
 Source0	:	http://dl.sourceforge.net/wxdcgui/%{name}-%{version}.tar.bz2
 Patch1:		dclib-0.3.23-openssl.patch
 Patch2:		dclib-0.3.23-glib.patch

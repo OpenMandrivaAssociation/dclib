@@ -17,6 +17,8 @@ URL:		https://sourceforge.net/projects/wxdcgui/
 Source0	:	http://dl.sourceforge.net/wxdcgui/%{name}-%{version}.tar.bz2
 Patch1:		dclib-0.3.23-openssl.patch
 Patch2:		dclib-0.3.23-glib.patch
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
 BuildRequires:	pkgconfig(libxml-2.0)
 BuildRequires:	pkgconfig(openssl)
 BuildRequires:	bzip2-devel
